@@ -17,6 +17,7 @@ class Questing {
 		bracket.put("<",">");
 		bracket.put("[","]");
 		bracket.put("{","}");
+		bracket.put("{","}");
 		
 		LinkedList<String> openList = new LinkedList();
 		
